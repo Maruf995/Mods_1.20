@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "232",
+    " 2 ",
+    " 1 "
+  ],
+  "key": {
+    "1":{
+      "item": "testmod:stik"
+    },
+    "2":{
+      "item": "testmod:extinguished_lucedium"
+    },
+    "3": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "testmod:posoh"
+  }
+}

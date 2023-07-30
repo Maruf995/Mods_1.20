@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "lucedium",
+  "ingredient": {
+    "item": "testmod:lucedium_ore"
+  },
+  "result": "testmod:faceted_lucedium"
+}

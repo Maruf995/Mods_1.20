@@ -1,0 +1,99 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"walk": {
+			"loop": true,
+			"animation_length": 1.7,
+			"bones": {
+				"nogal": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.35": [30, 0, 0],
+						"0.7": [0, 0, 0]
+					}
+				},
+				"nohar": {
+					"rotation": {
+						"0.7": [0, 0, 0],
+						"1.05": [17.5, 0, 0],
+						"1.4": [2.5, 0, 0]
+					}
+				},
+				"rukar": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"0.35": [85, 0, 0],
+						"0.7": [0, 0, 0]
+					}
+				},
+				"rukal": {
+					"rotation": {
+						"0.7": [0, 0, 0],
+						"1.05": [85, 0, 0],
+						"1.4": [0, 0, 0]
+					}
+				}
+			},
+			"affected_bones": [],
+			"affected_bones_is_a_whitelist": false
+		},
+		"animation.oma.walk": {
+			"loop": true,
+			"animation_length": 1.5,
+			"bones": {
+				"nogal": {
+					"rotation": {
+						"0.75": {
+							"vector": [0, 0, 0]
+						},
+						"1.125": {
+							"vector": [84, 0, 0]
+						},
+						"1.5": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"nohar": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.375": {
+							"vector": [85, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"rukar": {
+					"rotation": {
+						"0.75": {
+							"vector": [0, 0, 0]
+						},
+						"1.125": {
+							"vector": [85, 0, 0]
+						},
+						"1.5": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"rukal": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.375": {
+							"vector": [85, 0, 0]
+						},
+						"0.75": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "item.testmod.extinguished_lucedium": "Погашский Люседий",
+  "item.testmod.faceted_lucedium": "Люседевый Осколок",
+  "item.testmod.def_ring": "Пустое Люседевое Кольцо",
+  "item.testmod.posoh": "Палка Для Пинков Лоху",
+  "item.testmod.stik": "Двойная Палка",
+  "item.testmod.ring": "Кольцо Мощности",
+
+  "block.testmod.lucedium_ore": "Люседевая Руда",
+
+  "creative.tab": "Люседевый Мод"
+}
